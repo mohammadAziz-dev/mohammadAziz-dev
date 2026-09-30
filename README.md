@@ -19,7 +19,7 @@ I enjoy solving problems, continuously learning, and building maintainable softw
 ### SmartCommerce
 A full-stack commerce platform currently under active development using **Java, Spring Boot, React, Angular, PostgreSQL, and Docker**.
 
-> More project details and live links coming soon.
+> Live deployment available. UI/UX improvements and additional features are currently in progress.
 
 ## 🤝 Connect with me
 
