@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mohammad Aziz 👋
 
-<!--
-**mohammadAziz-dev/mohammadAziz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Angular • TypeScript • Java • Spring Boot • React
 
-Here are some ideas to get you started:
+Software developer with several years of professional frontend experience, primarily with **Angular and TypeScript**, including work on **large-scale enterprise applications**. Now expanding further into **Java, Spring Boot, React, and full-stack development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems, continuously learning, and building maintainable software. I also work with **Agentic Coding** and **AI-assisted software development** as part of my development workflow.
+
+## 🛠️ Tech Stack
+
+**Frontend:** Angular • TypeScript • React • RxJS • HTML • CSS  
+**Backend:** Java • Spring Boot • REST APIs  
+**Databases:** PostgreSQL • MongoDB • SQL  
+**Tools & DevOps:** Git • GitHub • Docker • CI/CD • Jenkins • SonarQube  
+**AI Development:** Agentic Coding • AI-assisted software development
+
+## 🚀 Featured Project
+
+### SmartCommerce
+A full-stack commerce platform currently under active development using **Java, Spring Boot, React, Angular, PostgreSQL, and Docker**.
+
+> More project details and live links coming soon.
+
+## 🤝 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/mohammad-aziz-dev/)
+- [XING](https://www.xing.com/profile/MohammadAbdul_Aziz/web_profiles)
